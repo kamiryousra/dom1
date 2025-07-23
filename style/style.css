@@ -62,7 +62,6 @@ main {
   align-items: center;
   margin-top: 25px;
 }
-
-.fa-trash-alt {
+.liked {
   color: #de6b5c;
 }
